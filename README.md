@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Lawrence ( WenKai,YEH)
 
+Full stack developer
+
+<br/>
+
+<!-- GitHub Streak -->
 <!--
-**0205miss/0205miss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href=http://github-readme-streak-stats.herokuapp.com/demo >
+    <img height=240 src="https://github-readme-streak-stats.herokuapp.com/?user=0205miss&background=0000&border=666&stroke=aaa&ring=ffc89b&fire=f88469&currStreakLabel=f88469&currStreakNum=4a9e90&sideLabels=f88469&sideNums=4a9e90&dates=aaa" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br/>
 -->
+
+<!-- GitHub Stats -->
+<div>
+  <a href=https://github.com/anuraghazra/github-readme-stats >
+    <img  height=260 src="https://github-readme-stats.vercel.app/api?username=0205miss&rank_icon=percentile&bg_color=0000&text_color=6aa&title_color=f88469&icon_color=af185b&show_icons=true&border_color=666&border_radius=4" />
+  </a>
+</div>
+
+<br/>
+
+## For Hire
+
+I'm available for contractual work on this stack (NextJS, Laravel, React, Flutter, TailwindCSS). Reach me via [email](0205miss@gmail.com)
